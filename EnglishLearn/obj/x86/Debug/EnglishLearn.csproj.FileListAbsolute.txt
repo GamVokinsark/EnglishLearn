@@ -1,0 +1,9 @@
+D:\Projects\EnglishLearn\EnglishLearn\bin\Debug\EnglishLearn.exe
+D:\Projects\EnglishLearn\EnglishLearn\bin\Debug\EnglishLearn.pdb
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\EnglishLearn.Form1.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\EnglishLearn.Properties.Resources.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\EnglishLearn.exe
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Debug\EnglishLearn.pdb

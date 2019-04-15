@@ -1,0 +1,11 @@
+D:\Projects\EnglishLearn\EnglishLearn\bin\Release\EnglishLearn.exe
+D:\Projects\EnglishLearn\EnglishLearn\bin\Release\EnglishLearn.pdb
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.Form1.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.Properties.Resources.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.exe
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.pdb
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.CheckWords.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.AddWords.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.LearnWords.resources
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.csprojResolveAssemblyReference.cache
+D:\Projects\EnglishLearn\EnglishLearn\obj\x86\Release\EnglishLearn.csproj.GenerateResource.Cache
